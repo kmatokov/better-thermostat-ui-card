@@ -1,0 +1,25 @@
+{
+  "common": {
+      "version": "verzija",
+      "current": "trenutna"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "onemogući prozor",
+        "disable_summer": "onemogući ljeto",
+        "disable_eco": "onemogući eko",
+        "disable_heat": "onemogući grijanje",
+        "disable_off": "onemogući gašenje",
+        "eco_temperature": "Eko temperatura",
+        "set_current_as_main": "zamijeni trenutnu i ciljnu temperaturu"
+      }
+    }
+  },
+  "extra_states": {
+    "window_open": "Prozor otvoren",
+    "night_mode": "Nočni naćin",
+    "eco": "Eko",
+    "summer": "Ljeto"
+  }
+}
